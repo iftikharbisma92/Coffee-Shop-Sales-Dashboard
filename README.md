@@ -111,16 +111,8 @@ Through this project, I learned how to:
 
 ---
 
-## 💡 Future Improvements
+## 👩‍💻 Author
 
-- Add KPI Cards with conditional formatting.
-- Include Profit and Revenue analysis.
-- Add Customer Segmentation.
-- Create Year-over-Year comparison.
-- Improve dashboard color theme and responsiveness.
+**Bisma Iftikhar**
 
----
-
-## 📬 Feedback
-
-This project was built for learning and portfolio purposes. Feedback and suggestions are always welcome to help improve future dashboard projects.
+Aspiring Data Analyst | Microsoft Excel | Microsoft Power BI | Power Query | DAX | Dashboard Development
