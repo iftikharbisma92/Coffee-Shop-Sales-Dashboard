@@ -84,20 +84,8 @@ The dashboard displays:
 - Excel Visualization
 - Interactive Reporting
 - Pivot Table Analysis
-
 ---
 
-## 📂 Project Structure
-
-```
-Coffee-Shop-Sales-Dashboard/
-│
-├── Coffee Shop Dashboard.xlsx
-├── dashboard.png
-└── README.md
-```
-
----
 
 ## 🚀 Learning Outcomes
 
