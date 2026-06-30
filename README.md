@@ -1,7 +1,8 @@
 # ☕ Coffee Shop Sales Dashboard
 
 ## Overview
-This project showcases an interactive Coffee Shop Sales Dashboard built in Microsoft Excel. It transforms raw sales data into meaningful business insights using Power Query, Pivot Tables, and interactive visualizations.
+
+This project showcases an interactive Coffee Shop Sales Dashboard built using Microsoft Excel to demonstrate practical skills in data analysis, dashboard development, and business reporting.
 
 ![Coffee Shop Dashboard](Dashboard.PNG)
 
