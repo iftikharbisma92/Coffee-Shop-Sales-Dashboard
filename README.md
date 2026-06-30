@@ -10,7 +10,7 @@ The dashboard provides an interactive overview of coffee shop sales, allowing us
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Dashboard](dashboard.png)
+![Coffee Shop Dashboard] (dashboard.png)
 
 ---
 
